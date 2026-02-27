@@ -48,3 +48,18 @@ Parameters:
 - MATLAB
 - Simulink
 - Control System Toolbox
+---
+
+## Sample Results
+
+### Step Response
+![Step Response](Results/Birim Basamak Yanıtı.png)
+
+### Impulse Response
+![Impulse Response](Results/Birim İmpuls Yanıtı.png)
+
+### Transient Characteristics
+![Transient](Results/gecici rejim.png)
+
+### Pole-Zero Map
+![Pole Zero](Results/Kutup-Sıfır Diyagramı.png)
